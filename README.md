@@ -1,1 +1,1 @@
-# yetpet.github.io
+# yetpet.io
